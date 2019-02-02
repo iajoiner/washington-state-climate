@@ -1,0 +1,393 @@
+,Station,ID,State,File,Latitude,Longitude
+0,Bayview Model Basin,id0667,ID,ID Bayview Model Basin,47.59,-116.33
+1,Coeur D Alene 1 E,id1956,ID,ID Coeur D Alene 1 E,47.41,-116.45
+2,Cottonwood 2 Wsw,id2159,ID,ID Cottonwood 2 Wsw,46.02,-116.23
+3,Craigmont,id2246,ID,ID Craigmont,46.14,-116.29
+4,Lewiston Water Plant,id5236,ID,ID Lewiston Water Plant,46.25,-117.01
+5,Lewiston Wso Ap,id5241,ID,ID Lewiston Wso Ap,46.23,-117.01
+6,Moscow Univ Of Idaho,id6152,ID,ID Moscow Univ Of Idaho,46.44,-116.58
+7,Plummer 3 Wsw,id7188,ID,ID Plummer 3 Wsw,47.19,-116.57
+8,Porthill,id7264,ID,ID Porthill,49.0,-116.3
+9,Potlatch 3 Nne,id7301,ID,ID Potlatch 3 Nne,46.58,-116.53
+10,Priest River Exp Stn,id7386,ID,ID Priest River Exp Stn,48.21,-116.5
+11,Saint Maries,id8062,ID,ID Saint Maries,47.19,-116.34
+12,Sandpoint Expermnt Stn,id8137,ID,ID Sandpoint Expermnt Stn,48.17,-116.34
+13,Tensed,id9029,ID,ID Tensed,47.1,-116.55
+14,Winchester 1 Se,id9840,ID,ID Winchester 1 Se,46.14,-116.37
+15,Winchester,id9846,ID,ID Winchester,46.14,-116.34
+16,Arlington,or0265,OR,OR Arlington,45.43,-120.12
+17,Astor Experiment Stn,or0318,OR,OR Astor Experiment Stn,46.09,-123.49
+18,Astoria,or0324,OR,OR Astoria,46.11,-123.5
+19,Astoria Wso Airport,or0328,OR,OR Astoria Wso Airport,46.09,-123.53
+20,Aurora,or0343,OR,OR Aurora,45.14,-122.45
+21,Beaverton 2 Ssw,or0595,OR,OR Beaverton 2 Ssw,45.27,-122.49
+22,Big Eddy,or0753,OR,OR Big Eddy,45.37,-121.07
+23,Boardman,or0858,OR,OR Boardman,45.5,-119.42
+24,Bonneville Dam,or0897,OR,OR Bonneville Dam,45.38,-121.57
+25,Brightwood,or1028,OR,OR Brightwood,45.22,-122.01
+26,Canby 2 Ne,or1329,OR,OR Canby 2 Ne,45.17,-122.4
+27,Canby 2 S,or1332,OR,OR Canby 2 S,45.15,-122.41
+28,Cascade Locks,or1407,OR,OR Cascade Locks,45.41,-121.53
+29,Cherry Grove 2 S,or1552,OR,OR Cherry Grove 2 S,45.25,-123.15
+30,Clatskanie,or1643,OR,OR Clatskanie,46.06,-123.12
+31,Cloverdale,or1682,OR,OR Cloverdale,45.12,-123.54
+32,Condon,or1765,OR,OR Condon,45.14,-120.11
+33,Cove,or1924,OR,OR Cove,45.18,-117.48
+34,Cove 1 E,or1926,OR,OR Cove 1 E,45.18,-117.48
+35,Dilley 1 S,or2325,OR,OR Dilley 1 S,45.29,-123.07
+36,Dufur,or2440,OR,OR Dufur,45.27,-121.08
+37,Eagle Creek 9 Se,or2493,OR,OR Eagle Creek 9 Se,45.17,-122.12
+38,Echo,or2564,OR,OR Echo,45.45,-119.11
+39,Elgin,or2597,OR,OR Elgin,45.34,-117.55
+40,Enterprise R S,or2672,OR,OR Enterprise R S,45.26,-117.16
+41,Enterprise 2 S,or2675,OR,OR Enterprise 2 S,45.24,-117.16
+42,Enterprise 20 Nne,or2678,OR,OR Enterprise 20 Nne,45.42,-117.09
+43,Enterprise 21 Nne,or2679,OR,OR Enterprise 21 Nne,45.41,-117.06
+44,Estacada 2 Se,or2693,OR,OR Estacada 2 Se,45.16,-122.19
+45,Forest Grove,or2997,OR,OR Forest Grove,45.32,-123.06
+46,Friend 1 W,or3121,OR,OR Friend 1 W,45.21,-121.16
+47,Gibbon 4 Ne,or3250,OR,OR Gibbon 4 Ne,45.43,-118.18
+48,Government Camp,or3402,OR,OR Government Camp,45.18,-121.45
+49,Hardman,or3644,OR,OR Hardman,45.1,-119.41
+50,Haskins Dam,or3705,OR,OR Haskins Dam,45.19,-123.21
+51,Headworks Ptld Wtr Bur,or3770,OR,OR Headworks Ptld Wtr Bur,45.27,-122.09
+52,Heppner,or3827,OR,OR Heppner,45.22,-119.33
+53,Hermiston 2 S,or3847,OR,OR Hermiston 2 S,45.49,-119.17
+54,Hillsboro,or3908,OR,OR Hillsboro,45.31,-122.59
+55,Hood River Exp Stn,or4003,OR,OR Hood River Exp Stn,45.41,-121.31
+56,Howardville,or4066,OR,OR Howardville,45.39,-117.4
+57,Ione 18 S,or4161,OR,OR Ione 18 S,45.19,-119.51
+58,Joseph Ranger Stn,or4329,OR,OR Joseph Ranger Stn,45.23,-117.14
+59,Kent,or4411,OR,OR Kent,45.12,-120.42
+60,La Grande,or4615,OR,OR La Grande,45.2,-118.07
+61,La Grande,or4622,OR,OR La Grande,45.19,-118.05
+62,Mc Minnville,or5384,OR,OR Mc Minnville,45.14,-123.11
+63,Mc Nary Dam,or5389,OR,OR Mc Nary Dam,45.55,-119.18
+64,Meacham Wso Airport,or5396,OR,OR Meacham Wso Airport,45.3,-118.24
+65,Mikkalo Larson Ranch,or5545,OR,OR Mikkalo Larson Ranch,45.28,-120.21
+66,Milton,or5593,OR,OR Milton,45.57,-118.25
+67,Minam 7 Ne,or5610,OR,OR Minam 7 Ne,45.41,-117.36
+68,Molalla 1 Nw,or5677,OR,OR Molalla 1 Nw,45.09,-122.34
+69,Morgan 3 Ne,or5726,OR,OR Morgan 3 Ne,45.35,-119.53
+70,Moro,or5734,OR,OR Moro,45.29,-120.43
+71,Mount Fanny,or5788,OR,OR Mount Fanny,45.19,-117.44
+72,Nehalem 9 Ne,or5971,OR,OR Nehalem 9 Ne,45.49,-123.46
+73,N Willamette Exp Stn,or6151,OR,OR N Willamette Exp Stn,45.17,-122.45
+74,Oregon City,or6334,OR,OR Oregon City,45.21,-122.36
+75,Parkdale,or6464,OR,OR Parkdale,45.31,-121.35
+76,Parkdale 2 Nne,or6466,OR,OR Parkdale 2 Nne,45.33,-121.34
+77,Parkdale 2 Sse,or6468,OR,OR Parkdale 2 Sse,45.3,-121.35
+78,Pendleton Br Exp Stn,or6540,OR,OR Pendleton Br Exp Stn,45.43,-118.38
+79,Pendleton Radio Kuma,or6541,OR,OR Pendleton Radio Kuma,45.4,-118.48
+80,Pendleton Wso Airport,or6546,OR,OR Pendleton Wso Airport,45.41,-118.51
+81,Pilot Rock,or6634,OR,OR Pilot Rock,45.29,-118.49
+82,Pine Grove,or6655,OR,OR Pine Grove,45.07,-121.22
+83,Portland Wb City,or6749,OR,OR Portland Wb City,45.31,-122.41
+84,Portland Wsfo,or6751,OR,OR Portland Wsfo,45.36,-122.36
+85,Portland Wso City,or6761,OR,OR Portland Wso City,45.32,-122.4
+86,Rex 1 S,or7127,OR,OR Rex 1 S,45.18,-122.55
+87,St Helens Rfd,or7466,OR,OR St Helens Rfd,45.52,-122.49
+88,Scoggins Dam 2,or7586,OR,OR Scoggins Dam 2,45.29,-123.12
+89,Seaside,or7641,OR,OR Seaside,45.59,-123.55
+90,Spout Springs Ski Lodge,or8000,OR,OR Spout Springs Ski Lodge,45.45,-118.03
+91,The Dalles,or8407,OR,OR The Dalles,45.36,-121.12
+92,The Dalles 2,or8410,OR,OR The Dalles 2,45.36,-121.11
+93,Three Lynx,or8466,OR,OR Three Lynx,45.07,-122.04
+94,Tillamook 1 W,or8494,OR,OR Tillamook 1 W,45.27,-123.52
+95,Tillamook 13 Ene,or8505,OR,OR Tillamook 13 Ene,45.33,-123.36
+96,Timber,or8522,OR,OR Timber,45.43,-123.18
+97,Troutdale Substation,or8634,OR,OR Troutdale Substation,45.34,-122.24
+98,Ukiah,or8726,OR,OR Ukiah,45.08,-118.56
+99,Umatilla,or8734,OR,OR Umatilla,45.55,-119.21
+100,Union Exp Stn,or8746,OR,OR Union Exp Stn,45.13,-117.53
+101,Vernonia,or8879,OR,OR Vernonia,45.52,-123.12
+102,Vernonia 2,or8884,OR,OR Vernonia 2,45.52,-123.11
+103,Walla Walla 13 Ese,or8985,OR,OR Walla Walla 13 Ese,46.0,-118.03
+104,Wallowa,or8997,OR,OR Wallowa,45.34,-117.32
+105,Warren,or9051,OR,OR Warren,45.49,-122.51
+106,Wasco,or9068,OR,OR Wasco,45.35,-120.42
+107,West Linn,or9208,OR,OR West Linn,45.2,-122.39
+108,Weston 2 Se,or9216,OR,OR Weston 2 Se,45.48,-118.24
+109,Weston 5 Ese,or9219,OR,OR Weston 5 Ese,45.48,-118.2
+110,Whiteson 1 Nw,or9298,OR,OR Whiteson 1 Nw,45.1,-123.12
+111,Willamina,or9372,OR,OR Willamina,45.05,-123.29
+112,Aberdeen,wa0008,WA,WA Aberdeen,46.58,-123.49
+113,Aberdeen 20 Nne Wishka,wa0013,WA,WA Aberdeen 20 Nne Wishka,47.16,-123.42
+114,Alder Dam Camp,wa0094,WA,WA Alder Dam Camp,46.48,-122.19
+115,Amanda Park,wa0158,WA,WA Amanda Park,47.28,-123.53
+116,Anacortes,wa0176,WA,WA Anacortes,48.31,-122.37
+117,Anatone 2 S,wa0184,WA,WA Anatone 2 S,46.08,-117.08
+118,Appleton,wa0217,WA,WA Appleton,45.49,-121.16
+119,Ariel Dam,wa0242,WA,WA Ariel Dam,45.58,-122.34
+120,Arlington,wa0257,WA,WA Arlington,48.12,-122.08
+121,Asotin 14 Sw,wa0294,WA,WA Asotin 14 Sw,46.12,-117.15
+122,Baring,wa0456,WA,WA Baring,47.46,-121.29
+123,Battle Ground,wa0482,WA,WA Battle Ground,45.46,-122.32
+124,Bellingham 2 N,wa0564,WA,WA Bellingham 2 N,48.47,-122.29
+125,Bellingham Fcwos Ap,wa0574,WA,WA Bellingham Fcwos Ap,48.48,-122.32
+126,Bellingham 3 Ssw,wa0587,WA,WA Bellingham 3 Ssw,48.43,-122.31
+127,Benton City 2 Nw,wa0628,WA,WA Benton City 2 Nw,46.17,-119.3
+128,Bickleton 3 Ese,wa0668,WA,WA Bickleton 3 Ese,45.59,-120.14
+129,Blaine,wa0729,WA,WA Blaine,49.0,-122.45
+130,Bothell 2 N,wa0826,WA,WA Bothell 2 N,47.46,-122.13
+131,Boundary Dam,wa0844,WA,WA Boundary Dam,48.59,-117.21
+132,Bremerton,wa0872,WA,WA Bremerton,47.34,-122.4
+133,Brooklyn,wa0917,WA,WA Brooklyn,46.47,-123.3
+134,Buckley 1 Ne,wa0945,WA,WA Buckley 1 Ne,47.1,-122.0
+135,Bumping Lake,wa0969,WA,WA Bumping Lake,46.52,-121.18
+136,Carson Fish Hatchery,wa1160,WA,WA Carson Fish Hatchery,45.54,-121.57
+137,Cathlamet 6 Ne,wa1205,WA,WA Cathlamet 6 Ne,46.16,-123.18
+138,Cathlamet 9 Ne,wa1207,WA,WA Cathlamet 9 Ne,46.19,-123.16
+139,Cedar Lake,wa1233,WA,WA Cedar Lake,47.25,-121.44
+140,Centralia,wa1276,WA,WA Centralia,46.43,-122.57
+141,Lakeside,wa1350,WA,WA Lakeside,47.5,-120.02
+142,Cheney,wa1362,WA,WA Cheney,47.29,-117.35
+143,Chesaw,wa1381,WA,WA Chesaw,48.57,-119.03
+144,Chesaw 4 Nnw,wa1385,WA,WA Chesaw 4 Nnw,49.0,-119.04
+145,Chewelah,wa1395,WA,WA Chewelah,48.17,-117.43
+146,Chief Joseph Dam,wa1400,WA,WA Chief Joseph Dam,48.0,-119.39
+147,Chimacum 4 S,wa1414,WA,WA Chimacum 4 S,47.57,-122.47
+148,Chiwawa River,wa1426,WA,WA Chiwawa River,48.02,-120.5
+149,Clallam Bay Slip Point,wa1465,WA,WA Clallam Bay Slip Point,48.16,-124.15
+150,Clarkston Heights,wa1474,WA,WA Clarkston Heights,46.23,-117.05
+151,Clearbrook,wa1484,WA,WA Clearbrook,48.58,-122.2
+152,Clearwater,wa1496,WA,WA Clearwater,47.35,-124.18
+153,Cle Elum,wa1504,WA,WA Cle Elum,47.11,-120.57
+154,Colfax 1 Nw,wa1586,WA,WA Colfax 1 Nw,46.53,-117.23
+155,Colville,wa1630,WA,WA Colville,48.33,-117.54
+156,Colville Airport,wa1650,WA,WA Colville Airport,48.33,-117.53
+157,Conconully,wa1666,WA,WA Conconully,48.33,-119.45
+158,Concrete Ppl Fish Stn,wa1679,WA,WA Concrete Ppl Fish Stn,48.33,-121.46
+159,Connell 1 W,wa1690,WA,WA Connell 1 W,46.4,-118.53
+160,Connell 12 Se,wa1691,WA,WA Connell 12 Se,46.3,-118.46
+161,Petersons Ranch,wa1760,WA,WA Petersons Ranch,46.04,-122.12
+162,Coulee Dam 1 Sw,wa1767,WA,WA Coulee Dam 1 Sw,47.57,-119.0
+163,Coupeville 1 S,wa1783,WA,WA Coupeville 1 S,48.12,-122.42
+164,Cushman Dam,wa1934,WA,WA Cushman Dam,47.25,-123.13
+165,Cushman Powerhouse 2,wa1939,WA,WA Cushman Powerhouse 2,47.22,-123.1
+166,Dallesport Fcwos Ap,wa1968,WA,WA Dallesport Fcwos Ap,45.37,-121.09
+167,Dallesport 10 N,wa1972,WA,WA Dallesport 10 N,45.45,-121.09
+168,Darrington Ranger Stn,wa1992,WA,WA Darrington Ranger Stn,48.15,-121.36
+169,Davenport,wa2007,WA,WA Davenport,47.39,-118.08
+170,Dayton 1 Wsw,wa2030,WA,WA Dayton 1 Wsw,46.19,-118.0
+171,Deer Park 2 E,wa2066,WA,WA Deer Park 2 E,47.58,-117.26
+172,Diablo Dam,wa2157,WA,WA Diablo Dam,48.43,-121.09
+173,Disautel 9 Ne,wa2175,WA,WA Disautel 9 Ne,48.26,-119.06
+174,Doty 3 E,wa2220,WA,WA Doty 3 E,46.38,-123.12
+175,Dryad,wa2253,WA,WA Dryad,46.38,-123.15
+176,Electron Headworks,wa2493,WA,WA Electron Headworks,46.54,-122.02
+177,Ellensburg,wa2505,WA,WA Ellensburg,46.58,-120.33
+178,Ellensburg Faa Airport,wa2508,WA,WA Ellensburg Faa Airport,47.02,-120.31
+179,Elma,wa2531,WA,WA Elma,47.0,-123.24
+180,Eltopia 6 W,wa2540,WA,WA Eltopia 6 W,46.29,-119.1
+181,Eltopia 8 Wsw,wa2542,WA,WA Eltopia 8 Wsw,46.24,-119.1
+182,Elwha Ranger Stn,wa2548,WA,WA Elwha Ranger Stn,48.02,-123.35
+183,Entiat Fish Hatchery,wa2563,WA,WA Entiat Fish Hatchery,47.42,-120.19
+184,Ephrata,wa2609,WA,WA Ephrata,47.19,-119.34
+185,Ephrata Airport Fcwos,wa2614,WA,WA Ephrata Airport Fcwos,47.19,-119.31
+186,Everett Jr College,wa2675,WA,WA Everett Jr College,47.59,-122.11
+187,Ewan,wa2706,WA,WA Ewan,47.07,-117.44
+188,Forks 1 E,wa2914,WA,WA Forks 1 E,47.57,-124.22
+189,Garden City Heights,wa3050,WA,WA Garden City Heights,46.05,-118.19
+190,Glacier Ranger Stn,wa3160,WA,WA Glacier Ranger Stn,48.53,-121.57
+191,Glenoma 1 W,wa3177,WA,WA Glenoma 1 W,46.31,-122.1
+192,Glenwood 2,wa3184,WA,WA Glenwood 2,46.0,-121.17
+193,Goldendale,wa3222,WA,WA Goldendale,45.45,-120.5
+194,Goldendale 2 E,wa3226,WA,WA Goldendale 2 E,45.49,-120.46
+195,Grapeview 3 Sw,wa3284,WA,WA Grapeview 3 Sw,47.18,-122.52
+196,Grayland,wa3320,WA,WA Grayland,46.48,-124.05
+197,Grays River Hatchery,wa3333,WA,WA Grays River Hatchery,46.23,-123.34
+198,Greenwater,wa3357,WA,WA Greenwater,47.08,-121.38
+199,Grotto,wa3386,WA,WA Grotto,47.44,-121.25
+200,Harrington 5 S,wa3502,WA,WA Harrington 5 S,47.25,-118.15
+201,Harrington 1 N,wa3512,WA,WA Harrington 1 N,47.29,-118.15
+202,Harrington 2 S,wa3513,WA,WA Harrington 2 S,47.26,-118.15
+203,Harrington 4 Ene,wa3515,WA,WA Harrington 4 Ene,47.29,-118.11
+204,Hartline,wa3529,WA,WA Hartline,47.41,-119.06
+205,Hatton 9 Se,wa3546,WA,WA Hatton 9 Se,46.44,-118.39
+206,Holden,wa3728,WA,WA Holden,48.12,-120.47
+207,Holden Village,wa3730,WA,WA Holden Village,48.12,-120.47
+208,Hoquiam Fcwos Ap,wa3807,WA,WA Hoquiam Fcwos Ap,46.59,-123.56
+209,Humptulips Salmon Hatch,wa3826,WA,WA Humptulips Salmon Hatch,47.14,-123.59
+210,Ice Harbor Dam,wa3883,WA,WA Ice Harbor Dam,46.15,-118.52
+211,Inchelium 2 Nw,wa3903,WA,WA Inchelium 2 Nw,48.19,-118.13
+212,Index,wa3909,WA,WA Index,47.49,-121.33
+213,Irene Mountain Wauconda,wa3975,WA,WA Irene Mountain Wauconda,48.49,-118.54
+214,John Day Dam,wa4035,WA,WA John Day Dam,45.43,-120.42
+215,Kahlotus 4 Sw,wa4077,WA,WA Kahlotus 4 Sw,46.35,-118.36
+216,Kalama Falls Hatchery,wa4084,WA,WA Kalama Falls Hatchery,46.01,-122.43
+217,Kalama 5 Ene,wa4085,WA,WA Kalama 5 Ene,46.03,-122.45
+218,Kennewick,wa4154,WA,WA Kennewick,46.13,-119.06
+219,Kennewick 10 Sw,wa4159,WA,WA Kennewick 10 Sw,46.08,-119.18
+220,Kent,wa4169,WA,WA Kent,47.24,-122.14
+221,Keyport Torpedo Stn,wa4187,WA,WA Keyport Torpedo Stn,47.42,-122.37
+222,Kid Valley,wa4201,WA,WA Kid Valley,46.22,-122.37
+223,Kosmos,wa4286,WA,WA Kosmos,46.3,-122.11
+224,La Crosse,wa4338,WA,WA La Crosse,46.49,-117.53
+225,La Grande,wa4360,WA,WA La Grande,46.5,-122.19
+226,Lake Cle Elum,wa4394,WA,WA Lake Cle Elum,47.15,-121.04
+227,Lake Kachess,wa4406,WA,WA Lake Kachess,47.16,-121.12
+228,Lake Keechelus,wa4414,WA,WA Lake Keechelus,47.19,-121.2
+229,Lakeside,wa4430,WA,WA Lakeside,47.5,-120.03
+230,Lake Sutherland Snug H,wa4438,WA,WA Lake Sutherland Snug H,48.05,-123.42
+231,Lake Wenatchee,wa4446,WA,WA Lake Wenatchee,47.5,-120.48
+232,Lake Whatcom,wa4454,WA,WA Lake Whatcom,48.41,-122.18
+233,Landsburg,wa4486,WA,WA Landsburg,47.23,-121.58
+234,Laurier,wa4549,WA,WA Laurier,49.0,-118.14
+235,Leavenworth 3 S,wa4572,WA,WA Leavenworth 3 S,47.34,-120.4
+236,Lemanasky Lake 3,wa4601,WA,WA Lemanasky Lake 3,48.43,-119.37
+237,Lind 3 Ne Exp Stn,wa4679,WA,WA Lind 3 Ne Exp Stn,47.0,-118.35
+238,Little Goose Dam,wa4702,WA,WA Little Goose Dam,46.35,-118.02
+239,Long Beach Exp Stn,wa4748,WA,WA Long Beach Exp Stn,46.22,-124.02
+240,Long Beach 3 Nne,wa4752,WA,WA Long Beach 3 Nne,46.23,-124.02
+241,Longmire Rainier Nps,wa4764,WA,WA Longmire Rainier Nps,46.45,-121.49
+242,Longview,wa4769,WA,WA Longview,46.09,-122.55
+243,Lower Granite Dam,wa4835,WA,WA Lower Granite Dam,46.39,-117.26
+244,Lower Monumental Dam,wa4841,WA,WA Lower Monumental Dam,46.34,-118.32
+245,Malott,wa4935,WA,WA Malott,48.17,-119.43
+246,Mansfield,wa4971,WA,WA Mansfield,47.49,-119.38
+247,Mansfield 7 W,wa4975,WA,WA Mansfield 7 W,47.49,-119.48
+248,Marietta 3 Nnw,wa5028,WA,WA Marietta 3 Nnw,48.5,-122.36
+249,Matlock 3 W,wa5080,WA,WA Matlock 3 W,47.14,-123.29
+250,Matlock 8 S,wa5086,WA,WA Matlock 8 S,47.09,-123.24
+251,Mayfield Power Plant,wa5110,WA,WA Mayfield Power Plant,46.3,-122.35
+252,Mazama 6 Se,wa5128,WA,WA Mazama 6 Se,48.32,-120.2
+253,Mazama,wa5133,WA,WA Mazama,48.37,-120.27
+254,Mc Millin Reservoir,wa5224,WA,WA Mc Millin Reservoir,47.08,-122.16
+255,Mc Nary Dam,wa5231,WA,WA Mc Nary Dam,45.57,-119.18
+256,Merwin Dam,wa5305,WA,WA Merwin Dam,45.57,-122.33
+257,Metaline Falls,wa5317,WA,WA Metaline Falls,48.52,-117.22
+258,Methow 2 S,wa5326,WA,WA Methow 2 S,48.06,-120.01
+259,Methow 2,wa5327,WA,WA Methow 2,48.08,-120.01
+260,Mill Creek,wa5377,WA,WA Mill Creek,46.01,-118.07
+261,Mill Creek Dam,wa5387,WA,WA Mill Creek Dam,46.05,-118.16
+262,Mineral 1 Sw,wa5425,WA,WA Mineral 1 Sw,46.43,-122.11
+263,Monroe,wa5525,WA,WA Monroe,47.51,-121.59
+264,Moses Lake,wa5608,WA,WA Moses Lake,47.06,-119.15
+265,Moses Lake 3 E,wa5613,WA,WA Moses Lake 3 E,47.07,-119.12
+266,Mount Adams Ranger Stn,wa5659,WA,WA Mount Adams Ranger Stn,46.0,-121.32
+267,Mount Spokane Summit,wa5674,WA,WA Mount Spokane Summit,47.55,-117.07
+268,Mount Vernon 3 Wnw,wa5678,WA,WA Mount Vernon 3 Wnw,48.26,-122.23
+269,Moxee City 10 E,wa5688,WA,WA Moxee City 10 E,46.31,-120.1
+270,Mud Mountain Dam,wa5704,WA,WA Mud Mountain Dam,47.09,-121.56
+271,Naselle,wa5774,WA,WA Naselle,46.23,-123.45
+272,Neah Bay 2 E,wa5801,WA,WA Neah Bay 2 E,48.22,-124.37
+273,Nespelem 2 S,wa5832,WA,WA Nespelem 2 S,48.08,-118.59
+274,Newhalem,wa5840,WA,WA Newhalem,48.41,-121.15
+275,Newport,wa5844,WA,WA Newport,48.11,-117.03
+276,Northport,wa5946,WA,WA Northport,48.55,-117.47
+277,Oakville,wa6011,WA,WA Oakville,46.5,-123.14
+278,Odessa,wa6039,WA,WA Odessa,47.19,-118.41
+279,Olga 2 Se,wa6096,WA,WA Olga 2 Se,48.37,-122.48
+280,Olympia Priest Pt Park,wa6109,WA,WA Olympia Priest Pt Park,47.04,-122.53
+281,Olympia Wso Ap,wa6114,WA,WA Olympia Wso Ap,46.58,-122.54
+282,Omak,wa6121,WA,WA Omak,48.25,-119.32
+283,Omak 2 Nw,wa6123,WA,WA Omak 2 Nw,48.26,-119.32
+284,Oroville 1 S,wa6187,WA,WA Oroville 1 S,48.56,-119.26
+285,Oroville 3 Nw,wa6188,WA,WA Oroville 3 Nw,48.58,-119.3
+286,Othello 6 Ese,wa6215,WA,WA Othello 6 Ese,46.48,-119.03
+287,Packwood,wa6262,WA,WA Packwood,46.37,-121.4
+288,Palmer 3 Se,wa6295,WA,WA Palmer 3 Se,47.18,-121.51
+289,Parkway 6 S Crystal Cre,wa6385,WA,WA Parkway 6 S Crystal Cre,46.55,-121.32
+290,Plain,wa6534,WA,WA Plain,47.47,-120.39
+291,Pleasant View,wa6553,WA,WA Pleasant View,46.31,-118.2
+292,Point Grenville,wa6584,WA,WA Point Grenville,47.18,-124.17
+293,Pomeroy,wa6610,WA,WA Pomeroy,46.28,-117.37
+294,Port Angeles,wa6624,WA,WA Port Angeles,48.07,-123.26
+295,Port Townsend,wa6678,WA,WA Port Townsend,48.06,-122.46
+296,Priest Rapids Dam,wa6747,WA,WA Priest Rapids Dam,46.39,-119.54
+297,Prosser,wa6763,WA,WA Prosser,46.12,-119.46
+298,Prosser 4 Ne,wa6768,WA,WA Prosser 4 Ne,46.15,-119.45
+299,Pullman Exp Stn,wa6784,WA,WA Pullman Exp Stn,46.44,-117.1
+300,Pullman 2 Nw,wa6789,WA,WA Pullman 2 Nw,46.46,-117.12
+301,Puyallup 2 W Exp Stn,wa6803,WA,WA Puyallup 2 W Exp Stn,47.12,-122.2
+302,Quilcene 2 Sw,wa6846,WA,WA Quilcene 2 Sw,47.49,-122.55
+303,Quillayute Wscmo Ap,wa6858,WA,WA Quillayute Wscmo Ap,47.57,-124.33
+304,Quinault Ranger Stn,wa6864,WA,WA Quinault Ranger Stn,47.28,-123.51
+305,Quincy 1 S,wa6880,WA,WA Quincy 1 S,47.13,-119.51
+306,Rainbow Falls Park 2 E,wa6887,WA,WA Rainbow Falls Park 2 E,46.38,-123.11
+307,Rainier Carbon River En,wa6892,WA,WA Rainier Carbon River En,47.0,-121.55
+308,Rainier Longmire,wa6894,WA,WA Rainier Longmire,46.45,-121.49
+309,Rainier Ohanapecosh,wa6896,WA,WA Rainier Ohanapecosh,46.44,-121.34
+310,Rainier Paradise Rnger,wa6898,WA,WA Rainier Paradise Rnger,46.47,-121.44
+311,Randle 1 E,wa6909,WA,WA Randle 1 E,46.32,-121.56
+312,Raymond 2 S,wa6914,WA,WA Raymond 2 S,46.39,-123.43
+313,Republic,wa6974,WA,WA Republic,48.39,-118.44
+314,Richardson 3 Se Lopez,wa7010,WA,WA Richardson 3 Se Lopez,48.26,-122.5
+315,Richland,wa7015,WA,WA Richland,46.19,-119.16
+316,Rimrock Tieton Dam,wa7038,WA,WA Rimrock Tieton Dam,46.39,-121.08
+317,Ritzville,wa7059,WA,WA Ritzville,47.07,-118.22
+318,Rosalia,wa7180,WA,WA Rosalia,47.14,-117.22
+319,Ross Dam,wa7185,WA,WA Ross Dam,48.44,-121.03
+320,Ruff 3 Sw,wa7223,WA,WA Ruff 3 Sw,47.08,-119.03
+321,Saint John,wa7267,WA,WA Saint John,47.06,-117.35
+322,Sappho 8 E,wa7319,WA,WA Sappho 8 E,48.04,-124.07
+323,Satus Pass,wa7340,WA,WA Satus Pass,46.0,-120.39
+324,Satus Pass 2 Ssw,wa7342,WA,WA Satus Pass 2 Ssw,45.57,-120.39
+325,Scenic,wa7379,WA,WA Scenic,47.42,-121.09
+326,Seattle Urban Site,wa7458,WA,WA Seattle Urban Site,47.39,-122.18
+327,Seattle Jackson Park,wa7459,WA,WA Seattle Jackson Park,47.44,-122.2
+328,Seattle Maple Leaf R,wa7463,WA,WA Seattle Maple Leaf R,47.42,-122.19
+329,Seattle Naval Air Stn,wa7468,WA,WA Seattle Naval Air Stn,47.41,-122.16
+330,Seattle Sand Pt Wsfo,wa7470,WA,WA Seattle Sand Pt Wsfo,47.41,-122.15
+331,Seattle Tcoma Wscmo Ap,wa7473,WA,WA Seattle Tcoma Wscmo Ap,47.27,-122.18
+332,Seattle Univ Of Washing,wa7478,WA,WA Seattle Univ Of Washing,47.39,-122.17
+333,Seattle Wb Airport,wa7483,WA,WA Seattle Wb Airport,47.32,-122.18
+334,Seattle Wb City,wa7488,WA,WA Seattle Wb City,47.36,-122.2
+335,Sedro Woolley 1 E,wa7507,WA,WA Sedro Woolley 1 E,48.3,-122.14
+336,Sequim,wa7538,WA,WA Sequim,48.05,-123.06
+337,Sequim 2 E,wa7544,WA,WA Sequim 2 E,48.05,-123.03
+338,Shelton,wa7584,WA,WA Shelton,47.12,-123.06
+339,Skagit Power Plant,wa7690,WA,WA Skagit Power Plant,48.41,-121.15
+340,Skamania Fish Hatchery,wa7696,WA,WA Skamania Fish Hatchery,45.38,-122.13
+341,Skykomish,wa7708,WA,WA Skykomish,47.42,-121.22
+342,Smyrna,wa7727,WA,WA Smyrna,46.5,-119.4
+343,Snoqualmie Falls,wa7773,WA,WA Snoqualmie Falls,47.33,-121.51
+344,Snoqualmie Pass,wa7781,WA,WA Snoqualmie Pass,47.25,-121.25
+345,South Olympic Tree Farm,wa7871,WA,WA South Olympic Tree Farm,47.14,-123.35
+346,Spirit Lake Ranger Stn,wa7919,WA,WA Spirit Lake Ranger Stn,46.16,-122.09
+347,Spokane,wa7933,WA,WA Spokane,47.4,-117.25
+348,Spokane Wso Airport,wa7938,WA,WA Spokane Wso Airport,47.38,-117.32
+349,Sprague,wa7956,WA,WA Sprague,47.18,-117.59
+350,Spruce,wa7987,WA,WA Spruce,47.48,-124.04
+351,Stampede Pass Wscmo,wa8009,WA,WA Stampede Pass Wscmo,47.17,-121.2
+352,Startup 1 E,wa8034,WA,WA Startup 1 E,47.52,-121.43
+353,Stehekin 3 Nw,wa8059,WA,WA Stehekin 3 Nw,48.21,-120.43
+354,Stevens Pass,wa8089,WA,WA Stevens Pass,47.44,-121.05
+355,Stockdill Ranch,wa8115,WA,WA Stockdill Ranch,48.22,-120.2
+356,Sunnyside,wa8207,WA,WA Sunnyside,46.19,-120.0
+357,Tacoma 1,wa8278,WA,WA Tacoma 1,47.15,-122.25
+358,Tacoma Wb City,wa8286,WA,WA Tacoma Wb City,47.15,-122.26
+359,Tatoosh Island Wb,wa8332,WA,WA Tatoosh Island Wb,48.23,-124.44
+360,Tekoa,wa8348,WA,WA Tekoa,47.13,-117.05
+361,Tieton Intake,wa8442,WA,WA Tieton Intake,46.4,-121.0
+362,Toledo,wa8500,WA,WA Toledo,46.28,-122.5
+363,Tolt South Fork Reser,wa8508,WA,WA Tolt South Fork Reser,47.42,-121.41
+364,Tonasket 4 Nne,wa8520,WA,WA Tonasket 4 Nne,48.46,-119.25
+365,Trinidad 2 Sse,wa8579,WA,WA Trinidad 2 Sse,47.13,-120.0
+366,Upper Baker Dam,wa8715,WA,WA Upper Baker Dam,48.39,-121.41
+367,Upper Baker River,wa8718,WA,WA Upper Baker River,48.4,-121.43
+368,Vancouver 4 Nne,wa8773,WA,WA Vancouver 4 Nne,45.41,-122.39
+369,Vancouver Port Dock,wa8778,WA,WA Vancouver Port Dock,45.37,-122.4
+370,Vashon Island,wa8802,WA,WA Vashon Island,47.27,-122.3
+371,Walla Walla 3 W Ent La,wa8926,WA,WA Walla Walla 3 W Ent La,46.03,-118.24
+372,Walla Walla Faa Airport,wa8928,WA,WA Walla Walla Faa Airport,46.06,-118.17
+373,Walla Walla Wb City,wa8931,WA,WA Walla Walla Wb City,46.02,-118.2
+374,Wapato,wa8959,WA,WA Wapato,46.26,-120.25
+375,Washougal 8 Ne,wa8999,WA,WA Washougal 8 Ne,45.36,-122.11
+376,Waterville,wa9012,WA,WA Waterville,47.39,-120.04
+377,Wauna 3 Sw Minter Creek,wa9021,WA,WA Wauna 3 Sw Minter Creek,47.22,-122.42
+378,Wawawai,wa9024,WA,WA Wawawai,46.39,-117.24
+379,Wellpinit,wa9058,WA,WA Wellpinit,47.54,-118.0
+380,Wenatchee,wa9074,WA,WA Wenatchee,47.25,-120.19
+381,Wenatchee Exp Stn,wa9079,WA,WA Wenatchee Exp Stn,47.26,-120.21
+382,Wenatchee Faa Ap,wa9082,WA,WA Wenatchee Faa Ap,47.24,-120.12
+383,Parkway 6 S,wa9171,WA,WA Parkway 6 S,46.54,-121.33
+384,White Swan,wa9191,WA,WA White Swan,46.23,-120.43
+385,Whitman Mission,wa9200,WA,WA Whitman Mission,46.03,-118.27
+386,Wilbur,wa9238,WA,WA Wilbur,47.45,-118.4
+387,Willapa Harbor,wa9291,WA,WA Willapa Harbor,46.41,-123.45
+388,Wilson Creek,wa9327,WA,WA Wilson Creek,47.25,-119.07
+389,Wind River,wa9342,WA,WA Wind River,45.48,-121.56
+390,Winthrop 1 Wsw,wa9376,WA,WA Winthrop 1 Wsw,48.28,-120.11
+391,Yakima Wso Ap,wa9465,WA,WA Yakima Wso Ap,46.34,-120.32
